@@ -20,7 +20,7 @@ Este tutorial apresenta os principais itens utilizados para manutenção/ediçã
    para_adicionar_nova_noticia
    para_editar_rodape
    para_editar_cabecalho
-   para_adicionar_alterar_imagens_do_carrossel_de_imagens
+   para_editar_carrossel_de_imagens
    para_usar_banner_rotativo
    para_central_de_conteudos
    para_usar_o_modulo_tile_collection
