@@ -25,7 +25,7 @@ Este tutorial apresenta os principais itens utilizados para manutenção/ediçã
    para_central_de_conteudos
    para_usar_o_modulo_tile_collection
    para_incorporar_embed
-   para_add_formatos_de_arquivos_zip_database_files
+   para_add_outros_formatos_de_arquivos
    itens_que_precisam_ser_atualizados
    observacoes
 
