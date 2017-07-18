@@ -2,7 +2,8 @@ Tutorial portal padrão Plone
 ============================
 
 Este tutorial teve como referência o `Manual do Governo <https://identidade-digital-de-governo-plone.readthedocs.io/en/latest/base/>`_.
-Este tutorial apresenta os principais itens utilizados para manutenção/edição do portal(site) no plone.
+
+Este tutorial apresenta os principais itens utilizados para manutenção/edição do portal (site) no plone.
 
 .. toctree::
    :maxdepth: 2
