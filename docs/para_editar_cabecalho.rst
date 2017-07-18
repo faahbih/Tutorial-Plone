@@ -1,13 +1,14 @@
-Para editar Cabeçalho
+Para Editar Cabeçalho
 =====================
 	Área relacionada ao Título, campo de busca, redes sociais.
 	
-Título do cabeçalho
+Título do Cabeçalho
 -------------------
-	* Para editá-lo clique em **admin** > **configuração do site** > **site**
+	* Clique em **admin** > **configuração do site** > **site**
 
-Ícones de rede social
+Ícones de Rede Social
 ---------------------
 
-	* Para editá-lo clique em **admin** > **configuração do site** > ir em **configurações de complementos** > **gov.br: Redes Sociais**
-	* **Obs:** os demais itens já são configurados por padrão.
+	* Clique em **admin** > **configuração do site** > ir em **configurações de complementos** > **gov.br: Redes Sociais**
+	
+	**Obs:** os demais itens já são configurados por padrão.

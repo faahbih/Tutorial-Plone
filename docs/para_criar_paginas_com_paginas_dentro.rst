@@ -1,8 +1,11 @@
-Para criar Páginas com páginas dentro (submenus)
-================================================
+Para criar Páginas com Páginas dentro
+======================================
 
-	Devemos localizar lugar/diretório que ficará
-	Acessar o diretório pelo browser ( **/folder_contents** ) ou clicar em **conteúdo**
+	Quando se criar uma página apenas, não é possível adicionar submenus para essa página,
+	Para isso precisamos criar uma página com páginas dentro ou submenus
 
-	* Clique em **adicionar item** > **capa** ou **pasta** (os dois podem ser usados neste caso) 
-	* Depois de adicionar um deles, na barra de edição será possível adicionar uma **nova página**, **capa**, **coleção**, **pasta** etc, e assim se tornarão **subpastas/submenus**.
+	1. Localize lugar/diretório que ficará
+	2. Acesse o diretório pelo browser ( **/folder_contents** ) ou clique em **Conteúdo**
+
+		* Clique em **Adicionar Item** > **Capa** ou **Pasta** (os dois podem ser usados neste caso) 
+		* Depois de adicionar um deles, na barra de edição habilitará a opção **Adicionar Item** será possível adicionar uma **nova página**, **capa**, **coleção**, **pasta** etc, e assim se tornarão **subpastas/submenus**.

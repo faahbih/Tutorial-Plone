@@ -16,14 +16,14 @@ Manutenção
 	* Clique em cima de **Central de Conteúdos** que está no lado esquerdo;
 	* Abrirá uma tela para edição, neste caso há **dois itens** (que estão no formato de lista: **imagens** e **publicações**)
 
-	1. Sempre que for feito a edição de algum dos itens é necessário abrir em forma de **html**, basta clicar no botão html
+	1. Sempre que for feito a edição de algum dos itens é necessário abrir em forma de **html**, basta clicar no ícone html
 	2. Caso queira adicionar um novo item 
 		- conforme no manual de gestão do portal padrão há um código para ser usado;
 		- url do manual: http://www.secom.gov.br/orientacoes-gerais/comunicacao-digital/gestao-manual-portal-modelo-governo-federal-dez2014.pdf 
 		- o código encontra-se na página 298
-		- copie o código e remova os itens que não deseja que entre na central de conteúdos
+		- copie o código e remova os itens que não deseja que está entre as tags <ul> </ul>.
 
-CÓDIGO em HTML da central de conteúdos
+Código em HTML da Central de Conteúdos
 --------------------------------------
 
 

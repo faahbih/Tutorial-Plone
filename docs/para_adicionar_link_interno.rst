@@ -2,7 +2,7 @@ Para adicionar Link Interno
 ===========================
 
 	Há duas maneiras:
-		1.  **${portal_url}**/"pasta do menu"/"pasta, capa ou página"
+		1.  **${portal_url}**/"*pasta do menu*"/"*pasta, capa ou página*"
 			
 			**Exemplo:** ${portal_url}/acesso-a-informacao/institucional
 
