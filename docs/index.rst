@@ -30,3 +30,12 @@ Este tutorial apresenta os principais itens utilizados para manutenção/ediçã
    observacoes
 
 
+.. _about-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About
+
+   author
+   plone
+
