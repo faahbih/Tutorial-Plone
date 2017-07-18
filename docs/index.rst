@@ -1,41 +1,31 @@
-Welcome to Read The Docs
-========================
+Tutorial portal padrão Plone
+============================
 
-`Read the Docs`_ hosts documentation for the open source community.
-We support Sphinx_ docs written with reStructuredText_ and `CommonMark`_.
-We pull your code from your Subversion_, Bazaar_, Git_, and Mercurial_ repositories.
-Then we build documentation and host it for you.
-Think of it as *Continuous Documentation*.
-
-The code is open source, and `available on GitHub`_.
-
-.. _Read the docs: http://readthedocs.org/
-.. _Sphinx: http://sphinx.pocoo.org/
-.. _reStructuredText: http://sphinx.pocoo.org/rest.html
-.. _CommonMark: http://commonmark.org/
-.. _Markdown: http://daringfireball.net/projects/markdown/syntax
-.. _Subversion: http://subversion.tigris.org/
-.. _Bazaar: http://bazaar.canonical.com/
-.. _Git: http://git-scm.com/
-.. _Mercurial: https://www.mercurial-scm.org/
-.. _available on GitHub: http://github.com/rtfd/readthedocs.org
-
-The main documentation for the site is organized into a couple sections:
-
-* :ref:`user-docs`
-* :ref:`feature-docs`
-* :ref:`about-docs`
-
-Information about development is also available:
-
-* :ref:`dev-docs`
-* :ref:`design-docs`
-
-.. _user-docs:
+Este tutorial teve como referência o `Manual do Governo <https://identidade-digital-de-governo-plone.readthedocs.io/en/latest/base/>`_.
+Este tutorial apresenta os principais itens utilizados para manutenção/edição do portal(site) no plone.
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation
+   :caption: Índice
+
+
+   pagina_principal
+   para_criar_pagina
+   para_criar_paginas_com_paginas_dentro_submenus
+   para_adicionar_fotos_pdfs_tabelas
+   para_editar_barra_de_menu
+   para_adicionar_link_externo
+   para_adicionar_nova_noticia
+   para_editar_rodape
+   para_editar_cabecalho
+   para_adicionar_alterar_imagens_do_carrossel_de_imagens
+   para_usar_banner_rotativo
+   para_central_de_conteudos
+   para_usar_o_modulo_tile_collection
+   para_incorporar_embed
+   para_add_formatos_de_arquivos_zip_database_files
+   itens_que_precisam_ser_atualizados
+   observacoes
 
    getting_started
    versions
