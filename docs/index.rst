@@ -11,9 +11,10 @@ Este tutorial apresenta os principais itens utilizados para manutenção/ediçã
 
    pagina_principal
    para_criar_pagina
-   para_criar_paginas_com_paginas_dentro_submenus
+   para_criar_paginas_com_paginas_dentro
    para_adicionar_fotos_pdfs_tabelas
    para_editar_barra_de_menu
+   para_adicionar_link_interno
    para_adicionar_link_externo
    para_adicionar_nova_noticia
    para_editar_rodape
