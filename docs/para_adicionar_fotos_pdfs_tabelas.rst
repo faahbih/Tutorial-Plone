@@ -22,7 +22,7 @@ Passo a passo
 		4. Feito isso volte na aba **Conteúdo**
 		5. Haverá 4 botões: **verde** (adicionar arquivos), **azul** (inciar upload), **amarelo** (cancelar upload) e **vermelho** (excluir selecionados)
 
-		     + Basta clicar no botão **verde** adicionar arquivos, editar os campos se houver necessidade, depois aperte *F5* para atualizar a página.
+		     + Basta clicar no botão **verde** adicionar arquivos, editar os campos se houver necessidade, faça o upload e depois aperte *F5* para atualizar a página.
 		        
 		Caso seja necessário, crie outras pastas para separá-las por assunto ou basta clicar em **adicionar arquivos dentro da pasta criada** 
 		
