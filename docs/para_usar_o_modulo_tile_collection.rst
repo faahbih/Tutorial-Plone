@@ -19,4 +19,14 @@ Para a página inicial:
 Para outras capas/páginas:
 --------------------------
 
-	A única diferença é o diretório que ele estará, siga os mesmos passos que no anterior, porém certifique-se onde a coleção está localizada e os conteúdos externos estão salvos.
+	* A única diferença é o diretório que ele estará, siga os mesmos passos que no anterior, porém certifique-se onde a coleção está localizada e os conteúdos externos salvos
+	* O módulo Tile Collection também funciona com Notícias
+		* Basta criar uma notícia na raíz onde foi criado o item **Coleção**
+		* Filtre de acordo com o nome, tipo (notícia) ou data para poder adicioná-lo no item **Coleção**
+
+		    - **Dica:** Para que ele apareça de forma automática nomeie de forma simular a dos demais arquivos: exemplo:
+
+		        + Conteúdo Externo chamado **Teste**
+		        + Notícia chamada **Teste 1**
+
+		            * se o filtro for de acordo com o Título "teste", ele aparecerá automaticamente no Tile Collection

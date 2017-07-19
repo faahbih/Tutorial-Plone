@@ -7,7 +7,7 @@ Com Imagem
 	   	* Clique em **Adicionar Conteúdo** > em seguida selecionar o diretório onde se encontram as imagens e arrastar até o banner (limite máximo de 4 imagens)
 
 		**obs:** fazendo dessa forma, ao clicar na imagem, será direcionada para a página onde se encontra a imagem arrastada, podendo ter maior visualização.
-		
+
 
 Com Conteúdo Externo
 --------------------
