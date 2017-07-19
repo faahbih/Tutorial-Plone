@@ -1,6 +1,6 @@
 Para Editar Cabeçalho
 =====================
-	Área relacionada ao Título, campo de busca, redes sociais.
+	Área relacionada ao Título do Cabeçalho, Campo de Busca, Redes Sociais.
 	
 Título do Cabeçalho
 -------------------

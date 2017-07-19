@@ -10,7 +10,7 @@ Para a página inicial:
 	   * Acesse a raiz do portal (**/folder_contents**), clique em **Adicionar Conteúdo** > **Coleção**;
 	   * É necessário filtrar o termo de busca em coleção exemplo: *data de criação etc*;
 	     
-	    .. note:: pode ser necessário mais de um filtro para localizar o **Conteúdo Externo**.
+	   .. note:: pode ser necessário mais de um filtro para localizar o **Conteúdo Externo**.
 
 	* Depois desses passos:
 		* Adicione o módulo **Tile Collection** na capa desejada, salve;
@@ -20,6 +20,7 @@ Para outras capas/páginas:
 --------------------------
 
 	* A única diferença é o diretório que ele estará, siga os mesmos passos que no anterior, porém certifique-se onde a coleção está localizada e os conteúdos externos salvos
+	  
 	  
 	* O módulo Tile Collection também funciona com Notícias
 		* Basta criar uma notícia na raíz onde foi criado o item **Coleção**

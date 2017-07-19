@@ -13,8 +13,8 @@ Passo a passo
 		2. Clique **Adicionar Item** > **Pasta**
 		3. Nomeie como "imagens" ou outro nome
 
-		.. note::  para que a pasta seja uma **pasta interna**, ou seja, para que *não apareça* para o usuário no menu é necessário configurá-la:
-				1. Vá na barra de ferramentas clique **Edição** > **Configurações** e ticar a opção **Excluir da Navegação**
+		.. note::  Para que a pasta seja uma **pasta interna**, ou seja, para que *não apareça* para o usuário no menu é necessário configurá-la: 
+				1. Vá na barra de ferramentas clique **Edição** > **Configurações** e ticar a opção **Excluir da Navegação** 
 				2. Clique em salvar
 
 

@@ -1,7 +1,7 @@
 Para editar o Rodapé
 ====================
 
-	* Ir na página raíz do seu portal (HOME) e digitar **/folder_contents** ou clicar em **Conteúdo**
+	* Vá para página raíz do portal (HOME) e digite **/folder_contents** (browser) ou clique em **Conteúdo**
 	* Clique na pasta **Rodapé** (criada por padrão)
 		
 		* Haverá 4 pastas: 

@@ -1,6 +1,6 @@
 Para adicionar outros formatos de arquivos
 ==========================================
-	Adicionar arquivos com extensões .zip, database file, .kml, .kmz, etc. 
+	Adicionar arquivos com extensões zip, database file, kml, kmz, etc. 
 
 
 	* Crie uma pasta no diretório que irá conter o arquivo, lembrando de deixá-lo *oculto* na barra de navegação ( **Edição** > **Configurações** > **Excluir da Navegação**)

@@ -5,9 +5,7 @@ Para adicionar Link Interno
 		1.  Adicione **${portal_url}**  antes e depois /"pasta do menu"/"pasta, capa ou página"
 			
 			**Exemplo:** ${portal_url}/acesso-a-informacao/institucional
-
 	ou,
-
 
 		2. Seguindo o diretório desde a raíz
 
