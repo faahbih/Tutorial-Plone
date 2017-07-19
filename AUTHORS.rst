@@ -39,5 +39,3 @@ Tutorial Plone Portal Padrão
 * Fabiana Rodrigues Rolim de Oliveira
 
 For a list of all the contributions: https://github.com/rtfd/readthedocs.org/contributors
-
-
