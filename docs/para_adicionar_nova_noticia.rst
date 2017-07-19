@@ -16,6 +16,4 @@ Para adicionar uma nova Notícia
 	   
 	    * Localize a pasta **notícias** > **adicionar item** > **notícia**, editar e salvar.
 	      
-	.. note:: se módulo de notícia estiver na pagina principal, para aparecer a nova notícia criada pela segunda forma, 
-			Clique em **Adicionar Conteúdo**
-			Localize a nova notícia criada e arraste para o módulo de notícia.
+	.. note:: se módulo de notícia estiver na pagina principal, para aparecer a nova notícia criada pela segunda forma clique em **Adicionar Conteúdo**, localize a nova notícia criada e arraste para o módulo de notícia.
