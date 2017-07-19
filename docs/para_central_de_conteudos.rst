@@ -26,6 +26,8 @@ Manutenção
 Código em HTML da Central de Conteúdos
 --------------------------------------
 
+.. code-block:: html
+    :linenos:
 
 	<ul class="list-central">
 		<li class="item-central item-videos first"><a class="link-central link-videos internal-link" href="#" target="_self" title="">Vídeos</a></li>
@@ -33,4 +35,5 @@ Código em HTML da Central de Conteúdos
 		<li class="item-central item-fotos last-item"><a class="link-central link-fotos internal-link" href="#" target="_self" title="">Imagens</a></li>
 		<li class="item-central item-publicacoes"><a class="link-central link-publicacoes internal-link" href="#" target="_self" title="">Publicações</a></li> <li class="item-central item-dadosabertos"><a class="link-central link-dadosabertos internal-link" href="http://dados.gov.br/" target="_self" title="">Dados Abertos</a></li>
 		<li class="item-central item-infograficos"><a class="link-central link-infograficos internal-link" href="#" target="_self" title="">Infográficos </a></li>
-		<li class="item-central item-aplicativos last-item"><a class="link-central link-aplicativos internal-link" href="#" target="_self" title="">Aplicativos </a></li></ul>
+		<li class="item-central item-aplicativos last-item"><a class="link-central link-aplicativos internal-link" href="#" target="_self" title="">Aplicativos </a></li>
+	</ul>
