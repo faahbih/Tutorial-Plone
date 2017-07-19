@@ -1,8 +1,9 @@
 Para criar Páginas com Páginas dentro
 ======================================
 
-	Quando se criar uma página apenas, não é possível adicionar submenus para essa página,
-	Para isso precisamos criar uma pasta com páginas dentro (ou submenus)
+	Quando se cria literalmente uma **Página** no Plone, não é possível adicionar submenus para essa página
+	
+	Para isso precisamos criar uma pasta que contenha páginas ou mais pastas.
 
 	1. Localize lugar/diretório que ficará
 	2. Acesse o diretório pelo browser ( **/folder_contents** ) ou clique em **Conteúdo**
