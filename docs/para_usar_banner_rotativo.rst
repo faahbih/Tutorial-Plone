@@ -1,14 +1,17 @@
 Para usar Banner Rotativo
 =========================
 	
-	1. Imagem
-	    
+Com Imagem
+----------
+
 	   	* Clique em **Adicionar Conteúdo** > em seguida selecionar o diretório onde se encontram as imagens e arrastar até o banner (limite máximo de 4 imagens)
 
 		**obs:** fazendo dessa forma, ao clicar na imagem, será direcionada para a página onde se encontra a imagem arrastada, podendo ter maior visualização.
+		
 
-	2. Conteúdo Externo
-	   
+Com Conteúdo Externo
+--------------------
+
 	   * Primeiro verifique o diretório que deseja armazenar os conteúdos externos lembrando que eles podem ser **visíveis ou não**.
 	   * Clique em **Adicionar Conteúdo** > **Conteúdo Externo**
 	   * Em seguida edite conforme necessário: *campo de texto*, *imagem*, *url* etc.
