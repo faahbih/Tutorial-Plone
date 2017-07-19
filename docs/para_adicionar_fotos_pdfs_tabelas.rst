@@ -21,10 +21,11 @@ Para adicionar Fotos, PDFs
 		4. Feito isso volte na aba **Conteúdo**
 		5. Haverá 4 botões: **verde** (adicionar arquivos) , **azul** (inciar upload), **amarelo** (cancelar upload) e **vermelho** (excluir selecionados)
 
-		     a) Basta clicar no botão adicionar arquivos, editar os campos se houver necessidade, depois aperte *F5* para atualizar a página.
+		     a) Basta clicar no botão **verde** adicionar arquivos, editar os campos se houver necessidade, depois aperte *F5* para atualizar a página.
 		        
 		Caso seja necessário, crie outras pastas para separá-las por assunto ou basta clicar em **adicionar arquivos dentro da pasta criada** 
-		Lembre-se que deve editar cada imagem para ocultá-la do menu, ou seja, terá que ser feito o mesmo processo que anteriormente, ir em **Edição** > **Configurações** e ticar a opção **Excluir da Navegação**
+		
+		Lembre-se que deve editar cada imagem/arquivo para ocultá-la do menu se houver necessidade, ou seja, terá que ser feito o mesmo processo que anteriormente, ir em **Edição** > **Configurações** e ticar a opção **Excluir da Navegação**
 
 		**Obs 2:** Válido também para PDFs, tabelas, gifs, exceto para outras extensões como zip, kmz, kml etc. **Neste caso,** veja o tópico abaixo:
 
