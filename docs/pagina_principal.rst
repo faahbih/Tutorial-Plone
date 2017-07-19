@@ -2,7 +2,7 @@ Página Principal
 ================
 
 A **HOME** é uma capa, ou seja, o layout é totalmente editável, composta por módulos customizáveis.
-Na página atual da OBT por exemplo é composta pelo: 
+Na página atual da OBT por exemplo é composta: 
 
 	* módulo de Tile de Texto
 	* módulo de Banner Tile
