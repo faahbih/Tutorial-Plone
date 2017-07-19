@@ -5,7 +5,7 @@ Para adicionar uma nova Notícia
 
 	Há duas formas de adiconar uma nova:
 
-	1. Ir em **Layout** > localizar o módulo em que está escrito **notícia** (normalmente está entre dois módulos de cabeçalhos)
+	1. Ir em **Layout** > localizar o módulo em que está escrito **notícia** (normalmente está entre dois módulos de cabeçalho)
 	
 		* Depois de localizado basta arrastar um novo **módulo de notícia** para o layout entre os cabeçalhos
 		* Em seguida clique em **salvar**, clique em **compor**, clique em **adicionar conteúdo**

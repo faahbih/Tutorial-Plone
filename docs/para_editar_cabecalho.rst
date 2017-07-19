@@ -10,5 +10,8 @@ Título do Cabeçalho
 ---------------------
 
 	* Clique em **admin** > **configuração do site** > ir em **configurações de complementos** > **gov.br: Redes Sociais**
+
+	    - Adicione ou Remova redes sociais e depois basta salvar.
+	      
 	
-	.. Obs:: os demais itens já são configurados por padrão.
+	.. note:: os demais itens já são configurados por padrão.

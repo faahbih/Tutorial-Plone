@@ -6,7 +6,7 @@ Para editar Barra de Menu
 	Na barra lateral do menu à esquerda há um botão **gerenciar portlets**
 
 	* Nessa opção você pode organizar toda a barra lateral do menu,
-	* Mudar de posição as divisões que existem e criar outras
+	* Mudar de posição das divisões que existem e criar outras
 
 	**Exemplo**, existe:
 
