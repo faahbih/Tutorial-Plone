@@ -15,8 +15,8 @@ Para adicionar Link Interno
 	
 			Para adicionar o link interno da página do **PRODES** na página de **Programas** (que fica em **/assuntos/programas**) digite da raiz do site até onde a página se encontra, neste caso ficou: **/OBT/assuntos/programas/amazonia/prodes**
 
-				
-				**Assuntos**
-					Programas
-						Amazônia
-							PRODES
+				OBT (página inicial ou raíz)
+					Assuntos (parte do menu)
+						Programas
+							Amazônia 
+								PRODES
