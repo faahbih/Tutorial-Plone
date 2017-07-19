@@ -18,6 +18,6 @@ Outra coisa que devemos saber é que no plone, existem diversas formas de se cri
 	
 		1. pelo browser: digite após localizar a raíz **/assuntos** e clique em **conteúdo** na barra de ferramentas em verde
 	
-		2. pelo browser: **/assuntos** e depois digitar **/folder_contents** (isso fará direcionar para pasta raíz de **assuntos**)
+		2. pelo browser: **/assuntos** e depois digite no browser **/folder_contents** (isso fará direcionar para pasta raíz de **assuntos**)
 
-	Feito isso basta clicar em **Adicionar Item** > **página** ou **pasta** ou **capa**
+	Feito isso basta clicar em **Adicionar Item** > **Página** ou **Pasta** ou **Capa**
