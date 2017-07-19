@@ -17,10 +17,6 @@ Passo a passo
 				1. Vá na barra de ferramentas clique **Edição** > **Configurações** e ticar a opção **Excluir da Navegação**
 				2. Clique em salvar
 
-			**Obs 1:** para que a pasta seja uma **pasta interna**, ou seja, para que *não apareça* para o usuário no menu é necessário configurá-la:
-
-				1. Vá na barra de ferramentas clique **Edição** > **Configurações** e ticar a opção **Excluir da Navegação**
-				2. Clique em salvar
 
 		4. Feito isso volte na aba **Conteúdo**
 		5. Haverá 4 botões: **verde** (adicionar arquivos), **azul** (inciar upload), **amarelo** (cancelar upload) e **vermelho** (excluir selecionados)
