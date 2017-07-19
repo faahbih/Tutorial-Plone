@@ -1,7 +1,7 @@
 Tutorial portal padrão Plone
 ============================
 
-Este tutorial teve como referência o `Manual do Potal Padrão do Governo <https://identidade-digital-de-governo-plone.readthedocs.io/en/latest/base/>`_.
+Este tutorial teve como referência o `Manual do Portal Padrão do Governo <http://www.secom.gov.br/orientacoes-gerais/comunicacao-digital/gestao-manual-portal-modelo-governo-federal-dez2014.pdf/view>`_.
 
 Este tutorial apresenta os principais itens utilizados para manutenção/edição do portal (site) no plone.
 
@@ -37,5 +37,4 @@ Este tutorial apresenta os principais itens utilizados para manutenção/ediçã
    :caption: About
 
    author
-   plone
 
