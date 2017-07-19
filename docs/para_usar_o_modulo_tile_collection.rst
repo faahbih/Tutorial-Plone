@@ -25,7 +25,7 @@ Para outras capas/páginas:
 		* Basta criar uma notícia na raíz onde foi criado o item **Coleção**
 		* Filtre de acordo com o nome, tipo (notícia) ou data para poder adicioná-lo no item **Coleção**
 
-		    - **Dica:** Para que ele apareça de forma automática nomeie de forma simular a dos demais arquivos: exemplo:
+		    - **Dica:** Para que ele apareça de forma automática nomeie de forma similar a dos demais arquivos: exemplo:
 
 		        + Conteúdo Externo chamado **Teste**
 		        + Notícia chamada **Teste 1**
