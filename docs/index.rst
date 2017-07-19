@@ -1,9 +1,9 @@
 Tutorial portal padrão Plone
 ============================
 
-* Este tutorial teve como referência o `Manual do Portal Padrão do Governo <http://www.secom.gov.br/orientacoes-gerais/comunicacao-digital/gestao-manual-portal-modelo-governo-federal-dez2014.pdf/view>`_.
+* Este tutorial teve como referência o `Manual Portal Padrão do Governo <http://www.secom.gov.br/orientacoes-gerais/comunicacao-digital/gestao-manual-portal-modelo-governo-federal-dez2014.pdf/view>`_.
 
-* Este tutorial apresenta os principais itens utilizados para manutenção/edição do portal (site) no plone.
+* Apresenta os principais itens utilizados para manutenção/edição do portal (site) pelo Plone.
 
 .. toctree::
    :maxdepth: 2
