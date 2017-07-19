@@ -11,4 +11,4 @@ Título do Cabeçalho
 
 	* Clique em **admin** > **configuração do site** > ir em **configurações de complementos** > **gov.br: Redes Sociais**
 	
-	**Obs:** os demais itens já são configurados por padrão.
+	.. Obs:: os demais itens já são configurados por padrão.

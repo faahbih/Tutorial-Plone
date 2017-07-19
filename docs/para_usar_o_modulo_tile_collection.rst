@@ -10,7 +10,7 @@ Para a página inicial:
 	   * Acesse a raiz do portal (**/folder_contents**), clique em **Adicionar Conteúdo** > **Coleção**;
 	   * É necessário filtrar o termo de busca em coleção exemplo: *data de criação etc*;
 	     
-	     **obs:** pode ser necessário mais de um filtro para localizar o **Conteúdo Externo**.
+	    .. note:: pode ser necessário mais de um filtro para localizar o **Conteúdo Externo**.
 
 	* Depois desses passos:
 		* Adicione o módulo **Tile Collection** na capa desejada, salve;

@@ -5,4 +5,5 @@ Para adicionar uma URL/Link Externo
 	* **Adicionar Item** > **Link** 
 	* Basta adicionar a url (endereço da página, do site etc.)
 	* Feito isso ele irá direcionar a uma página mostrando o link adicionado.
-		+ **Obs:** O usuário não verá essa página, somente o **admin**.
+		
+		.. note:: O usuário não verá essa página, somente o **admin**.

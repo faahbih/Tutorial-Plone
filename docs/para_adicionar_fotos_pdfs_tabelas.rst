@@ -27,7 +27,7 @@ Passo a passo
 		
 		Lembre-se que deve editar cada imagem/arquivo para ocultá-la do menu se houver necessidade, ou seja, terá que ser feito o mesmo processo que anteriormente, ir em **Edição** > **Configurações** e ticar a opção **Excluir da Navegação**
 
-		**Obs 2:** Válido também para PDFs, tabelas, gifs, exceto para outras extensões como zip, kmz, kml etc. **Neste caso,** veja o tópico abaixo:
+		.. note:: Válido também para PDFs, tabelas, gifs, exceto para outras extensões como zip, kmz, kml etc. **Neste caso,** veja o tópico abaixo:
 
 		
 .. toctree::
