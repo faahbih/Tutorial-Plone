@@ -1,18 +1,19 @@
 Para Central de Conteúdos
 =========================
 
-Adicionar Central de Conteúdos
--------------------------------
+Adicionar
+---------
 
 	* Certifique-se que está na **HOME** do site, clique em **gerenciar portlets**
 	* Clique **adicionar portlet** > **texto estático**
 	* Nomeie como "Central de Conteúdos"
-	* Clique em salvar.
+	* Adicione o código HTML abaixo
+	* Clique em salvar
 
 Manutenção
 ----------
 
-	* Primeiro certifique-se que está na **HOME** do site, clique em **gerenciar portlets**
+	* Vá na **HOME** do site, clique em **gerenciar portlets**
 	* Clique em cima de **Central de Conteúdos** que está no lado esquerdo;
 	* Abrirá uma tela para edição, neste caso há **dois itens** (que estão no formato de lista: **imagens** e **publicações**)
 

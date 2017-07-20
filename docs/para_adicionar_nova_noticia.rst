@@ -3,7 +3,7 @@ Para adicionar uma nova Notícia
 
 	Por padrão a página de notícias já está criada e fica localizada: **${portal_url}**, ou seja, na raíz do site.
 
-	Há duas formas de adiconar uma nova:
+	Há duas formas de adicionar uma nova notícia:
 
 	1. Ir em **Layout** > localizar o módulo em que está escrito **notícia** (normalmente está entre dois módulos de cabeçalho)
 	
@@ -17,5 +17,4 @@ Para adicionar uma nova Notícia
 	    * Localize a pasta **notícias** > **adicionar item** > **notícia**, editar e salvar.
 	      
 	.. note:: Se módulo de notícia estiver na pagina principal, para que apareça a nova notícia criada da segunda maneira:
-		* Vá em **Layout** arraste um módulo de notícia, salve, volte em **Compor**
-		* Clique em **Adicionar Conteúdo**, em seguida localize a nova notícia criada (Itens recentes ou Árvore de conteúdo) e arraste para o módulo de notícia.
+		  Vá em **Layout** arraste um módulo de notícia, salve, volte em **Compor**. Clique em **Adicionar Conteúdo**, em seguida localize a nova notícia criada (Itens recentes ou Árvore de conteúdo) e arraste para o módulo de notícia.

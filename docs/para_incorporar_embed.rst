@@ -2,7 +2,7 @@ Para incorporar <embed>
 =======================
 
 	* Primeiro é necessário configurar no painel de controle:
-		* **Configuração do Site** > **TinyMCE Visual Editor** > **Barra de Ferramentas**:
+		* Vá em Admin, clique em **Configuração do Site** > **TinyMCE Visual Editor** > **Barra de Ferramentas**
 		* Ative a checkbox de **Inserir/editar multimídia**
 		* Clique em salvar
 	
@@ -18,6 +18,6 @@ Para incorporar <embed>
 
 	.. note:: caso queira adicionar mais iframes na mesma página, é necessário criar uma nova página:
 			**Adicionar Item** > **Multimídia** e editá-lo com o novo iframe, em seguida volte para a página do primeiro iframe e clique em
-			**Edição** > **editar em corpo do texto** > clicar no ícone *advanced.scembedder_desc* e editar com o código do iframe e clicar em salvar.
+			**Edição** > **editar em corpo do texto** > clique no ícone *advanced.scembedder_desc* e edite com o código do iframe e salve.
 
 	**Referência:** https://docs.plone.org/4/en/adapt-and-extend/config/safe-html.html#plone-4
