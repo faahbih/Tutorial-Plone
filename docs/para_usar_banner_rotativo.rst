@@ -25,4 +25,4 @@ Com Notícia
 	* Vá na aba **Árvore de Conteúdo**, localize a **pasta de notícias** ou uma **notícia** e arraste para dentro do módulo do Banner Rotativo
 	  
 
-.. note:: Limite máximo de arquivo no Banner é 4
+.. Observação:: Limite máximo de arquivo no Banner é 4
