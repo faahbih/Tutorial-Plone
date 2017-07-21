@@ -16,7 +16,7 @@ Outra coisa que devemos saber é que no plone, existem diversas formas de se cri
 	
 	Há duas maneiras de acessar o menu **assuntos**:
 	
-		1. pelo browser: digite após localizar a raíz **/assuntos** e clique em **onteúdo** na barra de ferramentas em verde
+		1. pelo browser: digite após localizar a raíz **/assuntos** e clique em **Conteúdo** na barra de ferramentas em verde
 		2. pelo browser: digite **/assuntos/folder_contents** (isso fará direcionar para pasta raíz de **assuntos**)
 
 	Feito isso basta clicar em **Adicionar Item** > **Página** ou **Pasta** ou **Capa**
