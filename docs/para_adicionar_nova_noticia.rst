@@ -18,3 +18,15 @@ Para adicionar uma nova Notícia
 	      
 	.. note:: Se módulo de notícia estiver na pagina principal, para que apareça a nova notícia criada da segunda maneira:
 		  Vá em **Layout** arraste um módulo de notícia, salve, volte em **Compor**. Clique em **Adicionar Conteúdo**, em seguida localize a nova notícia criada (Itens recentes ou Árvore de conteúdo) e arraste para o módulo de notícia.
+
+
+Para editar a Notícia
+---------------------
+
+	Localize o diretório onde está a pasta Notícias (normalmente na raíz do site)
+
+	* Clique na pasta Notícias
+	* Dentro dela haverá uma Coleção chamada Últimas Notícias e outras noticias nomeadas como "Título da notícia entre 35 e 90 caracteres com espaço. Título da notícia entre 35 e 90 carac..."
+	* Basta editar umas das notícias vindas por padrão ou vá em **Adicionar Item** > **Notícia** e edite normalmente, depois salve.
+	  
+	.. note:: a Coleção "Últimas Notícias" é apenas para visualização. Para que as últimas notícias apareça no menu de relevância, copie a Coleção "Últimas Notícias", vá até a pasta Menu de Relevância e cole.  
