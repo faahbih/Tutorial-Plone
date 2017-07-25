@@ -8,4 +8,4 @@ Para adicionar um Link Externo
 		
 	.. note:: O usuário não verá essa página, somente o **admin**.
 
-	.. note:: Para que somente os links externos abram numa nova aba no browser, vá em **Configurações do Site** > **Temas**, clique na abra **configurações avançadas** e habilitar checkbox com a opção **Links externos abrem em uma nova janela**
+	.. note:: Para que somente os links externos abram numa nova aba no browser, vá em **Configurações do Site** > **Temas**, clique na aba **configurações avançadas** e habilitar checkbox com a opção **Links externos abrem em uma nova janela**

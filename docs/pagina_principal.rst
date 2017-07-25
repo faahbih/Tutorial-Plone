@@ -1,4 +1,4 @@
-Página Principal
+Página Inicial
 ================
 
 A **HOME** é uma capa, ou seja, o layout é totalmente editável, composta por módulos customizáveis.
@@ -20,6 +20,8 @@ Para alterar o Layout
 Para Editar
 ------------
 	
-	* Ir em **Compor** ( barra de ferramentas em verde ) e editar o módulo desejado (normalmente o módulo por padrão vem com o botão de **Editar**),
-	* Dependendo do módulo, é necessário clicar em **Adicionar Conteúdo** e arrastá-lo para o módulo que está sendo editado.
+	Edite as informações/conteúdo de cada módulo.
+
+	* Ir em **Compor** ( barra de ferramentas em verde ) e edite o módulo desejado ( normalmente o módulo vem com o botão de **Editar** por padrão),
+	* Dependendo do módulo, é necessário clicar em **Adicionar Conteúdo** e arrastá-lo para dentro do módulo que está sendo editado.
 

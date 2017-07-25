@@ -3,7 +3,7 @@ Para adicionar Imagens, PDFs
 
 	O recomendado é criar uma **pasta no diretório onde a imagem ficará** em determinada página, capa etc.
 
-	**Exemplo:** na página **projetos** há imagens, para isso teve que se criado uma **pasta** em **assuntos** pois projetos está em **/assuntos/projetos**, mas a pasta de imagens foi criado na raíz, ou seja a partir de **assuntos**: 
+	**Exemplo:** na página **projetos** há imagens, para isso teve que se criado uma **pasta** em **assuntos** pois projetos está em **/assuntos/projetos**, mas a pasta de imagens foi criada na raíz, ou seja a partir de **assuntos**: 
 
 			"/assuntos/imagens/"
 

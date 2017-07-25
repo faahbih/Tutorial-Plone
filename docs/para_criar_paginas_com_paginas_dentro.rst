@@ -8,4 +8,4 @@ Para criar Páginas com Páginas dentro
 	1. Localize **lugar/diretório** que ficará, acesse-o pelo browser ( **/folder_contents** ) ou clique em **Conteúdo**
 
 		* Clique em **Adicionar Item** > **Pasta** 
-		* Depois de adicionar uma pasta, na barra de edição habilitará a opção **Adicionar Item** onde será possível adicionar uma **nova página**, **capa**, **coleção** **pasta** etc, e assim se tornarão **subpastas/submenus**.
+		* Depois de adicionar uma pasta, na barra de edição habilitará a opção **Adicionar Item** onde será possível adicionar uma **nova página**, **capa**, **coleção**, **pasta** etc, e assim se tornarão **subpastas/submenus**.
