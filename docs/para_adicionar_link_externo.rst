@@ -1,4 +1,4 @@
-Para adicionar uma URL/Link Externo
+Para adicionar um Link Externo
 ===================================
 	
 	* Ir até o diretório que irá conter o link
