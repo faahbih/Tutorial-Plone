@@ -1,7 +1,7 @@
 Para adicionar uma nova Notícia
 ===============================
 
-	Por padrão a página de notícias já está criada e fica localizada: **${portal_url}**, ou seja, na raíz do site.
+	Por padrão a página/pasta de notícias já está criada e fica localizada: **${portal_url}**, ou seja, na raíz do site.
 
 	Há duas formas de adicionar uma nova notícia:
 
