@@ -1,12 +1,12 @@
-Para Central de Conteúdos
-=========================
+Para Centrais de Conteúdos
+==========================
 
 Adicionar
 ---------
 
 	* Certifique-se que está na **HOME** do site, clique em **gerenciar portlets**
 	* Clique **adicionar portlet** > **texto estático**
-	* Nomeie como "Central de Conteúdos"
+	* Nomeie como "Centrais de Conteúdos"
 	* Adicione o código HTML abaixo
 	* Clique em salvar
 
@@ -14,7 +14,7 @@ Manutenção
 ----------
 
 	* Vá na **HOME** do site, clique em **gerenciar portlets**
-	* Clique em cima de **Central de Conteúdos** que está no lado esquerdo;
+	* Clique em cima de **Centrais de Conteúdos** que está no lado esquerdo;
 	* Abrirá uma tela para edição, neste caso há **dois itens** (que estão no formato de lista: **imagens** e **publicações**)
 
 	1. Sempre que for feito a edição de algum dos itens é necessário abrir em forma de **html**, basta clicar no ícone html
@@ -24,8 +24,8 @@ Manutenção
 		- o código encontra-se na página 298
 		- copie o código e remova os itens que não deseja que está entre as tags <ul> </ul>.
 
-Código em HTML da Central de Conteúdos
---------------------------------------
+Código em HTML da Centrais de Conteúdos
+---------------------------------------
 
 .. code-block:: html
     :linenos:
