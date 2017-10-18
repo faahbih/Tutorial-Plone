@@ -9,7 +9,7 @@ Para adicionar uma nova Notícia
 	
 		* Depois de localizado basta arrastar um novo **módulo de notícia** para o layout entre os cabeçalhos
 		* Em seguida clique em **salvar**, clique em **compor**, clique em **adicionar conteúdo**
-		* Vá na aba **árvore de conteúdo** localize a pasta **notícias**, selecione o arquivo **“Título da notícia entre 35 a 90 caracteres ….”** (vem por padrão)
+		* Vá na aba **árvore de conteúdo** localize a pasta **notícias**, selecione o arquivo **“Título da notícia entre 35 a 90 caracteres ….”** e arraste para dentro do módulo de notícia.
 		* Feito isso é só editar a notícia e salvar.
 		  
 	2. Localize o diretório home e digite no browser **/folder_contents** ou clique em **Conteúdo**
