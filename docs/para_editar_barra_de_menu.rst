@@ -30,7 +30,3 @@ Para editar itens do Menu
 		Para mudar a posição de algum item, basta clicar nos pontilhados que ficam ao lado (esquerdo) como mostra na imagem a seguir:
 
 		.. image:: ../media/images/itens.png
-		:width: 400px
-    	:align: center
-    	:height: 400px
-    	:alt: itens
