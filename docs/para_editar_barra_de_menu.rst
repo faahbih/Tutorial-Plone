@@ -27,6 +27,6 @@ Para editar itens do Menu
 	Por exemplo:
 		Na pasta **Assuntos** existem os itens Programas, Projetos, Colaborações, Laboratórios etc.
 
-		Para mudar a posição de algum item, basta clicar nos pontilhados que ficam ao lado (esquerdo) como mostra na imagem a seguir:
+		Para mudar a posição de algum item, basta clicar nos pontilhados que ficam ao lado (esquerdo) como mostra na imagem a seguir e arrastar para cima ou para baixo.
 
 		.. image:: ../media/images/itens.png
