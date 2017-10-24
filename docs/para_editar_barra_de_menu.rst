@@ -18,3 +18,19 @@ Para editar Barra de Menu
 
 	
 	Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.)
+
+Para editar itens do Menu
+-------------------------
+
+	Para poder editar os itens de cada sessão:
+
+	Por exemplo:
+		Na pasta **Assuntos** existem os itens Programas, Projetos, Colaborações, Laboratórios etc.
+
+		Para mudar a posição de algum item, basta clicar nos pontilhados que ficam ao lado (esquerdo) como mostra na imagem a seguir:
+
+		.. image:: ../media/images/itens.png
+		:width: 400px
+    	:align: center
+    	:height: 400px
+    	:alt: itens
