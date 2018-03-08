@@ -9,6 +9,5 @@ Author
 .. topic:: Social Networks
 
     
-    `Linkedin <https://www.linkedin.com/in/fabianarroliveira/>`_
-
+    `Linkedin <https://www.linkedin.com/in/fabianarroliveira/>`_  |
     `Github <https://github.com/faahbih/>`_
