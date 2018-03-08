@@ -12,7 +12,7 @@ Adicionar portlet
 	    * aparecerá todos os portlets já existentes, clique em **adicionar portlet**;
 	    * abrirá uma lista com vários tipos que pode ser usado (busca por agenda, calendário, portlet clássico, etc.);
 	    * escolha a opção **navegação**;
-	    * adicione o mesmo título que dá pasta criado, no nosso exemplo **"Assuntos"**;
+	    * adicione o mesmo título que da pasta criada, no nosso exemplo **"Assuntos"**;
 	    * em Resultados da busca, aparecerá todos os itens que aparecem na pagina inicial do portal (inclusive **itens privados**), basta selecionar a pasta **Assuntos** e clicar em atualizar;
 	    * feito isso, no campo **Nível Inicial** mude o valor para **0** (assim a sessão aparecerá em todas páginas do site desde a HOME);
 	    * clique em salvar.
@@ -27,4 +27,4 @@ Manutenção
 
 	* Vá na **HOME** do site, clique em **gerenciar portlets**
 	* Cada portlet possui propriedade para **excluir**, **ocultar**, **mostrar** e **mover** (pra cima ou pra baixo);
-	* Para editar o portlet basta clicar no nome e editar normalmente.
+	* Para editar o portlet basta clicar no nome dele e editar, não esquecendo de salvá-lo.
