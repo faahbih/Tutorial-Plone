@@ -12,12 +12,18 @@ Para editar Barra de Menu
 
 		* portlet estático (com o **logo da OBT**)
 		* portlet navegação (padrão)
-		* portlet assuntos
 		* portlet acesso à informação
+		* portlet assuntos
 		* portlet estático de central de conteúdo
 
 	
-	Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.)
+	Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.) ver mais detalhes em: 
+
+	.. toctree::
+
+	para_usar_portlets
+
+
 
 Para editar itens do Menu
 -------------------------

@@ -1,9 +1,9 @@
 Para adicionar Imagens, PDFs
 ============================
 
-	O recomendado é criar uma **pasta no diretório onde a imagem ficará** em determinada página, capa etc.
+	O recomendado é criar uma **pasta no diretório onde a imagem será usada**.
 
-	**Exemplo:** na página **projetos** há imagens, para isso teve que se criado uma **pasta** em **assuntos** pois projetos está em **/assuntos/projetos**, mas a pasta de imagens foi criada na raíz, ou seja a partir de **assuntos**: 
+	**Exemplo:** na página **projetos** possui algumas imagens, para isso teve que ser criado uma **pasta** em **assuntos** pois projetos está em **/assuntos/projetos**, mas a pasta de imagens foi criada na raiz, ou seja a partir de **assuntos**: 
 
 			"/assuntos/imagens/"
 
@@ -25,9 +25,9 @@ Passo a passo
 
 		     + Basta clicar no botão **verde** adicionar arquivos, editar os campos se houver necessidade, fazer o upload e depois apertar *F5* para atualizar a página.
 		        
-		Caso seja necessário, crie outras pastas para separá-las por assunto/tema ou basta clicar em **adicionar arquivos** dentro da pasta criada. 
+		Caso seja necessário, crie outras pastas para separá-las por categoria/tema ou basta clicar em **adicionar arquivos** dentro da pasta criada. 
 		
-		Lembre-se que deve editar cada imagem/arquivo para ocultá-la do menu se houver necessidade, ou seja, terá que ser feito o mesmo processo que anteriormente, ir em **Edição** > **Configurações** e ticar a opção **Excluir da Navegação**
+		Lembre-se que deve editar cada imagem/arquivo para ocultá-la do menu (se houver necessidade), ou seja, terá que ser feito o mesmo processo que anteriormente, ir em **Edição** > **Configurações** e ticar a opção **Excluir da Navegação**
 
 		.. note:: Válido também para gif, jpeg, jpg, png, pdf, doc, txt, docx exceto para outras extensões como zip, kmz, kml etc. **Neste caso,** veja o tópico abaixo:
 
