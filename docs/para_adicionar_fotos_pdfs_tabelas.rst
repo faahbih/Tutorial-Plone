@@ -1,7 +1,7 @@
 Para adicionar Imagens, PDFs
 ============================
 
-	O recomendado é criar uma **pasta no diretório onde a imagem será usada**.
+	O recomendado é criar uma **pasta no diretório onde a imagem/arquivo será usada(o)**.
 
 	**Exemplo:** na página **projetos** possui algumas imagens, para isso teve que ser criado uma **pasta** em **assuntos** pois projetos está em **/assuntos/projetos**, mas a pasta de imagens foi criada na raiz, ou seja a partir de **assuntos**: 
 

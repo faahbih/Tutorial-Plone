@@ -9,11 +9,12 @@ Para criar Páginas com Páginas dentro
 
 		* Clique em **Adicionar Item** > **Pasta** 
 		* Depois de adicionar uma pasta, na barra de edição habilitará a opção **Adicionar Item** onde será possível adicionar uma **nova página**, **capa**, **coleção**, **pasta** etc, e assim se tornarão **subpastas/subitens**.
+		* * Clique em **adicionar item > página**
 		  
 
 	2. Depois de criar uma nova **página** dentro daquela **pasta**:
 
-	     a) Volte para a pasta, vá na **aba de edição em verde**;
+	     a) Volte para a raiz da pasta, vá na **aba de edição em verde**;
 	     b) Clique em **exibição**;
 	     c) Selecione a opção **Selecionar um item como visão padrão..**
 	     d) Aparecerá a página criada ticada, basta salvar.

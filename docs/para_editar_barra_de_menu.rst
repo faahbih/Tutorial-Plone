@@ -17,7 +17,7 @@ Para editar Barra de Menu
 		* portlet estático de central de conteúdo
 		  
 
-Obs.: Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.) ver mais detalhes acesse o tópico **Para usar Portlets**
+Obs.: Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.). Ver mais detalhes, acesse o tópico **Para usar Portlets**
 	
 
 Para editar itens do Menu
