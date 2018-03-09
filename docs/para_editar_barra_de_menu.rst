@@ -15,8 +15,16 @@ Para editar Barra de Menu
 		* portlet acesso à informação
 		* portlet assuntos
 		* portlet estático de central de conteúdo
+		  
+
+Obs.: Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.) ver mais detalhes neste tópico:
+
+.. toctree::
+
+ 	para_usar_portlets
 
 	
+
 Para editar itens do Menu
 -------------------------
 
@@ -31,8 +39,3 @@ Para editar itens do Menu
 
 
 
-	Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.) ver mais detalhes neste tópico:
-
-.. toctree::
-
- 	para_usar_portlets
