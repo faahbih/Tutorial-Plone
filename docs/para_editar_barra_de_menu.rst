@@ -17,12 +17,6 @@ Para editar Barra de Menu
 		* portlet estático de central de conteúdo
 
 	
-	Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.) ver mais detalhes em: 
-
-:ref:`para_usar_portlets`
-
-
-
 Para editar itens do Menu
 -------------------------
 
@@ -34,3 +28,14 @@ Para editar itens do Menu
 		Para mudar a posição de algum item, basta clicar nos pontilhados que ficam ao lado (esquerdo) como mostra na imagem a seguir e arrastar para cima ou para baixo.
 
 		.. image:: ../media/images/itens.png
+
+
+
+	Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.) ver mais detalhes em:
+
+
+.. .. toctree::
+
+.. 	para_usar_portlets
+
+`para_usar_portlets`_
