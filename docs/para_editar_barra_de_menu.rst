@@ -19,9 +19,7 @@ Para editar Barra de Menu
 	
 	Caso queira criar um novo portlet basta ir em **adicionar portlet** e escolher o tipo (navegação, estático etc.) ver mais detalhes em: 
 
-.. toctree::
-
-	para_usar_portlets
+:ref:`para_usar_portlets`
 
 
 
